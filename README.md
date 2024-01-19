@@ -1,6 +1,6 @@
-# Join on React Events Web Application
+# Events Management Application
 
-This is a react project using TanStack query which entails a web application where user can organize and join events on React Event. 
+This is a react project using TanStack query which entails a web application where anyone can organize and join events on React Event. 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
